@@ -64,7 +64,7 @@ class Mususho {
 - ✅ Tips for **VS Code, Git**, and productivity
 - ✅ Free projects and walkthroughs
 
-▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
+▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@mususho/videos/?sub_confirmation=1)
 
 ---
 
