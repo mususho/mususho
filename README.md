@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm mususho  👋</h1>
-<h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
+<h3 align="center">Flutter Developer 🧠  | Founder of <a href="https://mususho.com" target="_blank">mususho</a> 📚</h3>
 
 <p align="center">
-  <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://facebook.com/ahmed.learnsimply"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://instagram.com/mususho"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mususho"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@mususho/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://mususho.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -16,10 +16,10 @@
 ## 🚀 About Me
 
 ```dart
-class AhmedAdel {
+class Mususho {
   String role = "Flutter Developer & Instructor";
   String language = "Arabic";
-  String brand = "Learn Simply | اتعلم ببساطة";
+  String brand = "Learn Simply ";
   List<String> skills = [
     "Flutter UI/UX",
     "Dart Animations",
@@ -32,9 +32,8 @@ class AhmedAdel {
 ```
 ## 🔥 Highlights
 
-- 🔥 Built a YouTube channel with **240K+ subscribers**
 - 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
+- 📚 Founder of [learrnsimply.com](https://mususho.com) – an Arabic-first coding school
 - 🧩 Building **reusable Flutter components**, animations & UI kits
 - 📦 Making **clean code fun** to learn for beginners
 
