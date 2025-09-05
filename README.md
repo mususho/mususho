@@ -33,7 +33,7 @@ class Mususho {
 ## 🔥 Highlights
 
 - 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 📚 Founder of [learrnsimply.com](https://mususho.com) – an Arabic-first coding school
+- 📚 Founder of [mususho.com](https://mususho.com) – an Arabic-first coding school
 - 🧩 Building **reusable Flutter components**, animations & UI kits
 - 📦 Making **clean code fun** to learn for beginners
 
