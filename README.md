@@ -1,75 +1,29 @@
-<h1 align="center">Hi, I'm mususho  👋</h1>
-<h3 align="center">Flutter Developer 🧠  | Founder of <a href="https://mususho.com" target="_blank">mususho</a> 📚</h3>
+## 🧠 lunaris engine
 
-<p align="center">
-  <a href="https://instagram.com/mususho"><img src="https://img.shields.io/badge/@mususho-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mususho"><img src="https://img.shields.io/badge/mususho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@mususho/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-mususho-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://mususho.com"><img src="https://img.shields.io/badge/Website-mususho.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
+![Temporary Logo](https://k.top4top.io/p_3514x9kqz1.png)
+
+> مكتبة خوارزميات متقدمة وعالية الأداء للغة Dart، تم تصميمها وهندستها بواسطة خبير متخصص في الأنظمة عالية الأداء وبناء المكتبات.
 
 ---
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
+### ✨ الفلسفة والخبرة الأساسية
 
-## 🚀 About Me
+تم بناء `lunaris-engine` ليكون أكثر من مجرد مجموعة من الخوارزميات؛ إنه نتاج خبرة عميقة تمتد عبر لغات وأنظمة متعددة، بهدف تقديم أدوات قوية وموثوقة لمجتمع Dart و Flutter. تعتمد جودة هذه المكتبة على أسس متينة من الخبرة:
 
-```dart
-class Mususho {
-  String role = "Flutter Developer & Instructor";
-  String language = "Arabic";
-  String brand = "Learn Simply ";
-  List<String> skills = [
-    "Flutter UI/UX",
-    "Dart Animations",
-    "Python, Java, C++",
-    "GitHub & Copilot",
-    "Arabic Content Creation"
-    "Simplify Code"
-  ];
-}
-```
-## 🔥 Highlights
-
-- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 📚 Founder of [mususho.com](https://mususho.com) – an Arabic-first coding school
-- 🧩 Building **reusable Flutter components**, animations & UI kits
-- 📦 Making **clean code fun** to learn for beginners
+* **خبرة متعددة اللغات:** إتقان لغات **Dart, C++, Rust, و PHP** يضمن أن الحلول المقدمة ليست فقط فعالة بل مستوحاة من أفضل الممارسات في عالم هندسة البرمجيات.
+* **إتقان معماري:** تطبيق مبادئ **Clean Architecture** و **SOLID** في بيئة **Flutter** يضمن أن المكتبة مصممة لتكون قابلة للتوسيع، الصيانة، والدمج بسهولة في المشاريع الضخمة.
+* **عمق خوارزمي:** خبرة في تصميم وتطبيق أكثر من **600 خوارزمية** تضمن أن المكتبة تغطي نطاقًا واسعًا من الحالات، من الأساسية إلى الأكثر تعقيدًا.
+* **خبرة في بناء النظم:** بناء وتطوير **أنظمة Linux** يوفر فهمًا عميقًا للأداء والكفاءة على مستوى العتاد، وهو ما ينعكس في سرعة وموثوقية الخوارزميات.
+* **سجل حافل:** صانع أدوات ومكتبات إنتاجية متعددة في بيئة Dart.
 
 ---
+## 🤖 Machine Learning & AI
+**Supervised, unsupervised, and deep learning models:**
+- linear_regression, logistic_regression, decision_tree, random_forest, svm, knn, naive_bayes, gradient_boosting, xgboost_like, gradient_boosting_classifier, lightgbm_like, catboost_like
+- ann, cnn, rnn, lstm, gru, transformer, gan
+- simulated_annealing, genetic_algorithm, particle_swarm, bayesian_optimization, mdp
 
-## 🧰 Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
-
----
-
-## 🎬 My YouTube Focus
-
-- ✅ **Flutter basics to advanced** (in Arabic)
-- ✅ **Problem-solving** with C++ & Java
-- ✅ **Real app UIs** with animations
-- ✅ Tips for **VS Code, Git**, and productivity
-- ✅ Free projects and walkthroughs
-
-▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@mususho/videos/?sub_confirmation=1)
-
----
-
-
-
-## ⚡️ Motto
-
-> **“Let’s simplify learning, one line of code at a time.”**
+## 🕸️ Graph Algorithms
+**Classic and advanced graph/network algorithms:**
+- johnsons_algorithm, dinics_algorithm, stoer_wagner_min_cut, yens_algorithm, hierholzer, tarjans_scc
+- weighted_edge, bfs, dfs, topological_sort, connected_components, cycle_detection, bipartite_graph, shortest_path, dijkstra, bellman_ford, floyd_warshall, mst_kruskal, mst_prim, kosaraju_scc, articulation_points, eulerian_path, hamiltonian_path, chinese_postman, transitive_closure, graph_coloring, spfa, bridge_finding, tree_diameter, union_find
