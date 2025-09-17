@@ -1,29 +1,42 @@
-## 🧠 lunaris engine
+# 🧠 mususho // Systems Architect & Algorithms Expert
 
-![Temporary Logo](https://k.top4top.io/p_3514x9kqz1.png)
-
-> مكتبة خوارزميات متقدمة وعالية الأداء للغة Dart، تم تصميمها وهندستها بواسطة خبير متخصص في الأنظمة عالية الأداء وبناء المكتبات.
+Welcome to my profile. I am a software and systems architect who believes that powerful software is built on a solid foundation of computer science and systems engineering. My work is focused on building high-performance tools and infrastructure, particularly for the Dart & Flutter ecosystem.
 
 ---
 
-### ✨ الفلسفة والخبرة الأساسية
+### 👨‍💻 My Philosophy & Expertise
 
-تم بناء `lunaris-engine` ليكون أكثر من مجرد مجموعة من الخوارزميات؛ إنه نتاج خبرة عميقة تمتد عبر لغات وأنظمة متعددة، بهدف تقديم أدوات قوية وموثوقة لمجتمع Dart و Flutter. تعتمد جودة هذه المكتبة على أسس متينة من الخبرة:
+I bridge the gap between theoretical depth and practical application. My expertise isn't just a list of technologies; it's an integrated philosophy for building software:
 
-* **خبرة متعددة اللغات:** إتقان لغات **Dart, C++, Rust, و PHP** يضمن أن الحلول المقدمة ليست فقط فعالة بل مستوحاة من أفضل الممارسات في عالم هندسة البرمجيات.
-* **إتقان معماري:** تطبيق مبادئ **Clean Architecture** و **SOLID** في بيئة **Flutter** يضمن أن المكتبة مصممة لتكون قابلة للتوسيع، الصيانة، والدمج بسهولة في المشاريع الضخمة.
-* **عمق خوارزمي:** خبرة في تصميم وتطبيق أكثر من **600 خوارزمية** تضمن أن المكتبة تغطي نطاقًا واسعًا من الحالات، من الأساسية إلى الأكثر تعقيدًا.
-* **خبرة في بناء النظم:** بناء وتطوير **أنظمة Linux** يوفر فهمًا عميقًا للأداء والكفاءة على مستوى العتاد، وهو ما ينعكس في سرعة وموثوقية الخوارزميات.
-* **سجل حافل:** صانع أدوات ومكتبات إنتاجية متعددة في بيئة Dart.
+* **Systems Architect:** Specializing in building and developing **Linux systems**, which gives me a deep understanding of performance and efficiency, right from the kernel level.
+* **Algorithmist:** Mastery and application of **600+ algorithms and data structures**, enabling me to select the most effective solution for any given problem.
+* **Polyglot Engineer:** I seamlessly navigate between high-performance systems languages like **C++** and **Rust**, and modern application languages like **Dart** and **PHP**.
+* **Library & Tool Creator:** I build production-grade tools and libraries for the developer community, with a focus on clean, extensible, and well-documented code.
+* **Flutter Expert:** I apply **Clean Architecture** and **SOLID principles** to architect robust and maintainable applications using the Flutter framework.
 
 ---
-## 🤖 Machine Learning & AI
-**Supervised, unsupervised, and deep learning models:**
-- linear_regression, logistic_regression, decision_tree, random_forest, svm, knn, naive_bayes, gradient_boosting, xgboost_like, gradient_boosting_classifier, lightgbm_like, catboost_like
-- ann, cnn, rnn, lstm, gru, transformer, gan
-- simulated_annealing, genetic_algorithm, particle_swarm, bayesian_optimization, mdp
 
-## 🕸️ Graph Algorithms
-**Classic and advanced graph/network algorithms:**
-- johnsons_algorithm, dinics_algorithm, stoer_wagner_min_cut, yens_algorithm, hierholzer, tarjans_scc
-- weighted_edge, bfs, dfs, topological_sort, connected_components, cycle_detection, bipartite_graph, shortest_path, dijkstra, bellman_ford, floyd_warshall, mst_kruskal, mst_prim, kosaraju_scc, articulation_points, eulerian_path, hamiltonian_path, chinese_postman, transitive_closure, graph_coloring, spfa, bridge_finding, tree_diameter, union_find
+### 🛠️ My Tech Stack
+
+| Languages                                                                                                                              | Frameworks & Platforms                                                                                                                 | Architecture & Principles                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)                                     | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)                                 | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-white?style=for-the-badge)                                                   |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)                                         | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)                                       | ![SOLID](https://img.shields.io/badge/SOLID-white?style=for-the-badge)                                                                               |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)                                         |                                                                                                                                        | ![Algorithms](https://img.shields.io/badge/Algorithms_&_DS-white?style=for-the-badge)                                                              |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)                                             |                                                                                                                                        |                                                                                                                                                      |
+
+---
+
+### 🚀 Current Focus & Contributions
+
+My current focus is on pushing the boundaries of what's possible within the Dart ecosystem:
+
+* 🌱 Expanding **[lunaris-engine](https://github.com/mususho/Lunaris-engine)**, the algorithms library I built to be the most powerful and comprehensive in the Dart ecosystem.
+* 💡 Strategically contributing to the **Dart language SDK itself**, with the goal of integrating core data structures and algorithms to improve the language for all developers.
+* 🏗️ Architecting complex applications with Flutter as a practical proof of the power and efficiency of the tools I develop.
+
+---
+
+### 🤝 Collaboration & Contact
+
+The best way to connect with me is through code. If you have an interesting idea or wish to contribute to one of my projects, feel free to open an `Issue` or a `Pull Request`.
